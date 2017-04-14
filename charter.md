@@ -47,16 +47,16 @@ The members should decide on the format of access to the physical facilities and
 
 1. OPENNESS
 
-..* Collaboration;
-..* Knowledge Sharing
+⋅⋅* Collaboration;
+⋅⋅* Knowledge Sharing
 
 
 2. SUSTAINABILITY
 
-..* Resources Optimization;
-..* Food For All;
+⋅⋅* Resources Optimization;
+⋅⋅* Food For All;
 
 3. BETTER FOOD
 
-..* Improve food quality;
-..* Nutrition.
+⋅⋅* Improve food quality;
+⋅⋅* Nutrition.
