@@ -43,20 +43,20 @@ Open Agriculture Tools collect and openly share data about agricultural processe
 Farm Labs are accessible to all it’s members and to the community;
 The members should decide on the format of access to the physical facilities and tools.
 
-### KEY PRINCIPLES (to build upon for future versions and revisions of the document)
+## KEY PRINCIPLES (to build upon for future versions and revisions of the document)
 
 1. OPENNESS
 
-⋅⋅* Collaboration;
-⋅⋅* Knowledge Sharing
+⋅⋅1 Collaboration;
+⋅⋅2 Knowledge Sharing;
 
 
 2. SUSTAINABILITY
 
-⋅⋅* Resources Optimization;
-⋅⋅* Food For All;
+⋅⋅1 Resources Optimization;
+⋅⋅2 Food For All;
 
 3. BETTER FOOD
 
-⋅⋅* Improve food quality;
-⋅⋅* Nutrition.
+⋅⋅1 Improve food quality;
+⋅⋅2 Nutrition.
