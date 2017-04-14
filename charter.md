@@ -24,13 +24,18 @@ Each Farm Lab works for its community and for the whole, since all experiments a
  ```
  based on:
 
- “An open source ecosystem of food technologies to create healthier, more engaging and more inventive food systems.
+“An open source ecosystem of food technologies to create healthier,
+more engaging and more inventive food systems.
 Grow local, from anywhere.”
 (“OpenAg Initiative — Farming for the Future,” n.d.)
 
 (Open definition)
-“Knowledge is open if anyone is free to access, use, modify, and share it — subject, at most, to measures that preserve provenance and openness.”
-(“Open Definition 2.1 - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge,” n.d.)
+“Knowledge is open if anyone is free to access, use, modify,
+and share it — subject, at most, to measures that preserve
+provenance and openness.”
+(“Open Definition 2.1 - Open Definition -
+Defining Open in Open Data,
+Open Content and Open Knowledge,” n.d.)
 ```
 
 *The Farm Labs project is aimed at relating Openness and Agriculture accessing its benefits and contributions towards better food (in terms of quality, availability, universality, diversity and sustainability). This implies continuous assessment which will also derive in an evolutive approach to the overall concept(s) which will consequently influence the revision of the Open Agriculture definition.*
@@ -47,7 +52,7 @@ The members should decide on the format of access to the physical facilities and
 
 1. OPENNESS
 
-  1. Collaboration;
+1. Collaboration;
   2. Knowledge Sharing;
 
 2. SUSTAINABILITY
