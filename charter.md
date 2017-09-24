@@ -55,10 +55,10 @@ The members should decide on the format of access to the physical facilities and
   * Collaboration;
   * Knowledge Sharing;
 
-1. SUSTAINABILITY
+2. SUSTAINABILITY
   * Resources Optimization;
   * Food For All;
 
-1. BETTER FOOD
+3. BETTER FOOD
   * Improve food quality;
   * Nutrition.
