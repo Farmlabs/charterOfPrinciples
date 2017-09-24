@@ -50,6 +50,11 @@ The members should decide on the format of access to the physical facilities and
 
 ## KEY PRINCIPLES (to build upon for future versions and revisions of the document)
 
+1. Something
+  1. Something
+  2. Something
+2. Something
+
 1. OPENNESS
   1. Collaboration;
   1. Knowledge Sharing;
