@@ -14,12 +14,12 @@ These are commons managed and maintained and should host experiments for agricul
 
 #### 2. What’s in a Farm Lab?
 
-The Farm Lab holds a set of Open Agriculture Tools to be used on attached or neighboring farm sites. Those Farm sites preferably belong to the Farm Lab and managed communally.
+The Farm Lab holds a set of Open Agriculture Tools to be used on attached or neighboring farm sites. Those Farm sites preferably belong to the Farm Lab and communally-managed.
 Each Farm Lab works for its community and for the whole, since all experiments and findings are object of open publishing.
 
  #### 3. What is Open Agriculture?
 
- An open source set of Agriculture and Farming technologies, that enable an open benchmarking ecosystem towards healthier and more sustainable food production systems.
+ An open source set of Agriculture and Farming technologies, that enable an open ecosystem towards healthier and more sustainable food production systems.
 
  ```
  based on:
@@ -51,13 +51,13 @@ The members should decide on the format of access to the physical facilities and
 ## KEY PRINCIPLES (to build upon for future versions and revisions of the document)
 
 1. OPENNESS
-  1. Collaboration;
-  2. Knowledge Sharing;
+⋅⋅1. Collaboration;
+⋅⋅2. Knowledge Sharing;
 
 2. SUSTAINABILITY
-  1. Resources Optimization;
-  2. Food For All;
+⋅⋅1. Resources Optimization;
+⋅⋅2. Food For All;
 
 3. BETTER FOOD
-  1. Improve food quality;
-  2. Nutrition.
+⋅⋅1. Improve food quality;
+⋅⋅2. Nutrition.
