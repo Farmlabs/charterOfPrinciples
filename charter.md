@@ -50,19 +50,15 @@ The members should decide on the format of access to the physical facilities and
 
 ## KEY PRINCIPLES (to build upon for future versions and revisions of the document)
 
-1. Something
-  1. Something
-  2. Something
-2. Something
 
 1. OPENNESS
-  1. Collaboration;
-  1. Knowledge Sharing;
+  * Collaboration;
+  * Knowledge Sharing;
 
 1. SUSTAINABILITY
-  1. Resources Optimization;
-  1. Food For All;
+  * Resources Optimization;
+  * Food For All;
 
 1. BETTER FOOD
-  1. Improve food quality;
-  1. Nutrition.
+  * Improve food quality;
+  * Nutrition.
