@@ -9,7 +9,7 @@ The Farm Labs Initiative is hereby presented through its charter of principles:
 #### 1. What is a Farmlab?
 
 A Farm Lab is one unit of a global network of Farms - an Open Agriculture Network - that independently from it’s size holds a set of Open Agriculture Tools and test fields.
-These are commons managed and maintained and should host experiments for agriculture development.
+These are commons-based peer productions, which create new commons or maintains and fosters the existing ones for open agriculture development.
 
 
 #### 2. What’s in a Farm Lab?
@@ -36,6 +36,12 @@ provenance and openness.”
 (“Open Definition 2.1 - Open Definition -
 Defining Open in Open Data,
 Open Content and Open Knowledge,” n.d.)
+
+"Commons
+The Commons is a general term for shared resources in which each stakeholder has an equal interest.
+Goods which are jointly developed and maintained by a community and shared acoording to community-defined rules."
+( Yochai Benkler, Peter Troxler ) 
+( http://benkler.org ; https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1692617 )
 ```
 
 *The Farm Labs project is aimed at relating Openness and Agriculture accessing its benefits and contributions towards better food (in terms of quality, availability, universality, diversity and sustainability). This implies continuous assessment which will also derive in an evolutive approach to the overall concept(s) which will consequently influence the revision of the Open Agriculture definition.*
